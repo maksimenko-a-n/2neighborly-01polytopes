@@ -1,0 +1,1 @@
+﻿gcc read.c rwdb.c -o readdb
